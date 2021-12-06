@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: linear-gradient(315deg, #009df5 0%, #8cded4 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+button {
+  cursor: pointer;
+}
